@@ -5,7 +5,6 @@ Projeto Awax - Este projeto é um clone do site Awax, desenvolvido como parte do
 
 ## Tecnologias Utilizadas
 
-<<<<<<< HEAD
 **HTML**: Utilizado para estruturar o conteúdo do site. <br>
 **CSS**: Usado para estilizar o site, com foco na criação de um design responsivo. <br>
 **Flexbox**: Implementado para gerenciar o layout de forma eficiente, garantindo uma distribuição adequada dos elementos na página.
@@ -13,13 +12,4 @@ Projeto Awax - Este projeto é um clone do site Awax, desenvolvido como parte do
 ## Funcionalidades
 **Design Responsivo**: O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos. <br>
 **Clonagem de Layout**: Replicação fiel do layout original do site Awax, incluindo elementos visuais como cabeçalhos, seções de conteúdo e rodapés. <br>
-=======
-**HTML**: Utilizado para estruturar o conteúdo do site.
-**CSS**: Usado para estilizar o site, com foco na criação de um design responsivo.
-**Flexbox**: Implementado para gerenciar o layout de forma eficiente, garantindo uma distribuição adequada dos elementos na página.
-
-## Funcionalidades
-**Design Responsivo**: O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos.
-**Clonagem de Layout**: Replicação fiel do layout original do site Awax, incluindo elementos visuais como cabeçalhos, seções de conteúdo e rodapés.
->>>>>>> 8a47dcd3091e8c7b24028f437656c935fcec7662
 **Estruturação Semântica**: O código HTML foi estruturado de forma semântica, facilitando a compreensão e a manutenção do código.
