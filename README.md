@@ -1,26 +1,15 @@
 
-# Site Awax
+# Projeto Awax
 
-Projeto Awax - Site simples para consolidação de conhecimento durante o curso fullstack da B7 Web.
-Desenvolvido apenas o frontend.
+Projeto Awax - Este projeto é um clone do site Awax, desenvolvido como parte dos meus estudos em desenvolvimento web. O objetivo do projeto é praticar habilidades de HTML, CSS e layout responsivo utilizando Flexbox. O projeto foi implementado para replicar o design e a funcionalidade do site original, oferecendo uma experiência visualmente agradável e moderna.
 
+## Tecnologias Utilizadas
 
-## // Autores
+**HTML**: Utilizado para estruturar o conteúdo do site. <br>
+**CSS**: Usado para estilizar o site, com foco na criação de um design responsivo. <br>
+**Flexbox**: Implementado para gerenciar o layout de forma eficiente, garantindo uma distribuição adequada dos elementos na página.
 
-- [@patricklimax](https://www.github.com/patricklimax)
-
-
-## // Stack utilizada
-
-**Front-end:** HTML e CSS
-
-**Back-end:** Não utilizado
-
-
-## // Links
-
-[![linkprojeto](https://img.shields.io/badge/veja_o_projeto-green?style=for-the-badge&logo=ko-fi&logoColor=green&labelColor=white)](https://awaxsite-az.vercel.app/)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=prefect&logoColor=000&labelColor=white)](https://azweb.vercel.app/)
-
-[![linkedin](https://img.shields.io/badge/conect_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/patricklimax/)
+## Funcionalidades
+**Design Responsivo**: O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos. <br>
+**Clonagem de Layout**: Replicação fiel do layout original do site Awax, incluindo elementos visuais como cabeçalhos, seções de conteúdo e rodapés. <br>
+**Estruturação Semântica**: O código HTML foi estruturado de forma semântica, facilitando a compreensão e a manutenção do código.
